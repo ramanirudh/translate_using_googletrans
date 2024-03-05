@@ -2,9 +2,9 @@
 ## Program to translate using google translate
 ## Do not continuously translate. Give a break of atleast 30 minutes after every job
 ## Uses googletrans package available in python
-## Ram Anirudh ## 30 Dec 2019
-## Filenames are hard-coded. To translate a file, please search "Input" comment line and type filename in the "open" function call. Do the same for "Output". Save the program and run in python
-## I ran the program using python2, may work with python3 also
+## Ram Anirudh ## 30 Dec 2019 ## 5 Mar 2024
+## Filenames are hard-coded. To translate a file, search "Input" comment line and type filename in the "open" function call. Do the same for "Output". Save the program and run in python
+## I ran the program using python2
 
 import io
 from googletrans import Translator
